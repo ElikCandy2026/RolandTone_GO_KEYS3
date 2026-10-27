@@ -30,4 +30,4 @@ jobs:
         env:
           OPENCODE_API_KEY: ${{ secrets.OPENCODE_API_KEY }} # имя секрета зависит от провайдера в model
         with:
-          model: opencode/gpt-oss-20b (UD-Q4_K_XL)
+          model: opencode/DeepSeek V4.1 Flash Free
