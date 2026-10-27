@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.elikcandy.rolandtone.app-mergeDebugResources-58:/values-w600dp-land-v13/values-w600dp-land-v13.xml",
+            "map": [
+                {
+                    "source": "/home/elik/.gradle/caches/9.6.0/transforms/2056364162a4ef82e660e4bad3f7c144/transformed/material-1.11.0/res/values-w600dp-land-v13/values-w600dp-land-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "54",
+                        "endOffsets": "105"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Roland Go:Keys3 -->
+    <usb-device-filter>
+        <vendor-id>1000</vendor-id> <!-- Placeholder, will need actual Roland vendor ID -->
+        <product-id>1000</product-id> <!-- Placeholder -->
+    </usb-device-filter>
+</resources>
