@@ -1,6 +1,8 @@
 # RolandTone
 
-An **Android** project built with Gradle.  The app demonstrates MIDI / USB support and contains a small UI for playing tones.
+An **Android** project built with Gradle.  
+The app was created with the help of AI, and is a personal AI training project.
+The purpose of the application is to quickly change the sound tones on the Roland Go:Keys3 when connecting the phone via USB
 
 ## Project layout
 - Root module: `:app`
